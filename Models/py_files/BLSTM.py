@@ -54,13 +54,7 @@ y_test = tf.keras.utils.to_categorical(y_test)
 
 y_train = np.asarray(y_train).astype('float32')
 y_test = np.asarray(y_test).astype('float32')
-
-
-# In[7]:
-
-
-
-X_train.shape                
+             
 
 
 # In[8]:
