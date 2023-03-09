@@ -227,14 +227,6 @@ plt.savefig("MC6.png")
 plt.show()
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
