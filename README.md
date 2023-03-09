@@ -33,7 +33,7 @@ Consist of three folders :
 
 * Import the network .py file from model folder
 * Run With Jupyter Notebook
-* Can be trained and tested with the data available in dataset folder or can replace the X_train, y_train, X_test, y_test as you want.
+* Can be trained and tested with the data available in dataset folder or can replace the X_train, Y_train, X_test, Y_test as you want.
 
 # How to predict using saved models
 
