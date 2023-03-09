@@ -6,13 +6,21 @@
 
 sample examples for both tasks:
 
+
 * Not Writing and Writing activity segmentation:
+
 
 https://user-images.githubusercontent.com/70266536/223907702-7f1f0b04-bf53-4819-a8db-7ab0e1aed2aa.mp4
 
+
+
 * Characters and numbers segmentation:
+
+
  
 https://user-images.githubusercontent.com/70266536/223907768-4c8a08aa-a175-4c2f-a989-3096c43af58a.mp4
+
+
 
 # Project files description
 
