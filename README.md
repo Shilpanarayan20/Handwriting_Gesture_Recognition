@@ -31,9 +31,9 @@ Consist of three folders :
 
 # How to run network
 
-Import the network .py file from model folder
-Run With Jupyter Notebook
-Can be trained and tested with the data available in dataset folder or can replace the X_train, y_train, X_test, y_test as you want.
+* Import the network .py file from model folder
+* Run With Jupyter Notebook
+* Can be trained and tested with the data available in dataset folder or can replace the X_train, y_train, X_test, y_test as you want.
 
 # How to predict using saved models
 
