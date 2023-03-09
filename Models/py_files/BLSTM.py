@@ -81,10 +81,10 @@ model = Sequential()
 
 
 model = Sequential()
-model.add(Bidirectional(LSTM(100,return_sequences=True, input_shape=(2,98))))
-model.add(Bidirectional(LSTM(100,return_sequences=True)))
-model.add(Bidirectional(LSTM(150,return_sequences=True)))
-model.add(Bidirectional(LSTM(200)))
+model.add(Bidirectional(LSTM(2,return_sequences=True, input_shape=(2,98))))
+model.add(Bidirectional(LSTM(4,return_sequences=True)))
+model.add(Bidirectional(LSTM(8,return_sequences=True)))
+model.add(Bidirectional(LSTM(16)))
 model.add(Dropout(0.3))
 model.add(Dense(units = 2, activation='softmax'))
 
