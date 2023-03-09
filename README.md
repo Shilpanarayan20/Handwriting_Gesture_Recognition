@@ -31,8 +31,14 @@ Consist of three folders :
 
 # How to run network
 
-* Import the network .py file from model folder
+* Try Google Colab
+
+* Import the network .ipynb file from model\ipynb_files folder
+
+or
+
 * Run With Jupyter Notebook
+
 * Can be trained and tested with the data available in dataset folder or can replace the X_train, Y_train, X_test, Y_test as you want.
 
 # How to predict using saved models
