@@ -28,7 +28,7 @@ Consist of three folders :
 
 1) Dataset which consist of prepared data for all three data representation for both tasks 
  
-2) Data preprocessing file where we have code for Enlarge (upsampling), Reduce (Downsampling) and Padding
+2) Data preprocessing files where we have code for Enlarge (upsampling), Reduce (Downsampling) and Padding
 
 3) Models - 5 different segmentations networks .ipynb files and .py files : Bi-LSTM , LSTM , ResNet , OS-CNN , GTN 
 
